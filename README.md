@@ -1,4 +1,4 @@
-# non-governmental-organizations
+# Non-governmental-organizations
 The aim of the workshop is to collect information about NGOs from any chosen category. The information will come from the website https://spis.ngo.pl/. The page content is generated on the server, so a combination of the requests and bs4 libraries would suffice to extract most of the information, but to decrypt email addresses you need to run JavaScript code - for that you will need the selenium library.
 
 Go to https://spis.ngo.pl/ and choose any foundation.
